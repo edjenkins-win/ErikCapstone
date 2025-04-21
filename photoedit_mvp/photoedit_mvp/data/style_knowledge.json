@@ -1,0 +1,163 @@
+[
+  {
+    "style_name": "Cinematic Teal & Orange",
+    "description": "Classic Hollywood color grading with teal shadows and orange highlights",
+    "keywords": [
+      "blockbuster",
+      "cinematic",
+      "movie",
+      "film",
+      "hollywood",
+      "complementary"
+    ],
+    "examples": [
+      "Transformers",
+      "Marvel movies",
+      "Michael Bay",
+      "action films"
+    ],
+    "techniques": [
+      "Shadow/highlight color split",
+      "Blue shadows, orange highlights",
+      "High contrast"
+    ]
+  },
+  {
+    "style_name": "Film Noir",
+    "description": "High contrast black and white with dramatic shadows and film grain",
+    "keywords": [
+      "noir",
+      "detective",
+      "dark",
+      "mysterious",
+      "contrast",
+      "dramatic",
+      "moody"
+    ],
+    "examples": [
+      "The Maltese Falcon",
+      "Citizen Kane",
+      "Double Indemnity"
+    ],
+    "techniques": [
+      "Hard shadows",
+      "Low-key lighting",
+      "Strong contrast",
+      "Moody atmosphere"
+    ]
+  },
+  {
+    "style_name": "Anamorphic",
+    "description": "Widescreen cinematic look with lens flares and letterboxing",
+    "keywords": [
+      "widescreen",
+      "anamorphic",
+      "cinematic",
+      "lens flare",
+      "letterbox"
+    ],
+    "examples": [
+      "JJ Abrams films",
+      "Star Trek",
+      "Star Wars",
+      "Sci-fi films"
+    ],
+    "techniques": [
+      "Horizontal lens flares",
+      "Wide aspect ratio",
+      "Anamorphic lens distortion"
+    ]
+  },
+  {
+    "style_name": "Blockbuster",
+    "description": "Vibrant colors and high contrast for modern action films",
+    "keywords": [
+      "action",
+      "vibrant",
+      "punchy",
+      "bright",
+      "dramatic",
+      "dynamic"
+    ],
+    "examples": [
+      "Fast & Furious",
+      "Mission Impossible",
+      "Modern action films"
+    ],
+    "techniques": [
+      "Increased saturation",
+      "High contrast",
+      "Sharper details",
+      "Vibrant colors"
+    ]
+  },
+  {
+    "style_name": "Dreamy",
+    "description": "Soft, ethereal look with warm tones and gentle glow",
+    "keywords": [
+      "soft",
+      "ethereal",
+      "dreamy",
+      "romantic",
+      "fantasy",
+      "peaceful"
+    ],
+    "examples": [
+      "Romance films",
+      "Fantasy sequences",
+      "Music videos"
+    ],
+    "techniques": [
+      "Soft focus",
+      "Glow effect",
+      "Reduced contrast",
+      "Warm tones"
+    ]
+  },
+  {
+    "style_name": "Vintage",
+    "description": "Classic film-inspired look with faded colors and subtle vignette",
+    "keywords": [
+      "retro",
+      "vintage",
+      "old",
+      "classic",
+      "film",
+      "nostalgic"
+    ],
+    "examples": [
+      "Old photographs",
+      "Analog film",
+      "Instagram filters"
+    ],
+    "techniques": [
+      "Sepia tones",
+      "Reduced contrast",
+      "Faded blacks",
+      "Vignette"
+    ]
+  },
+  {
+    "style_name": "Portrait",
+    "description": "Optimized for portrait photography with skin tone enhancement",
+    "keywords": [
+      "portrait",
+      "person",
+      "face",
+      "skin",
+      "beauty",
+      "professional"
+    ],
+    "examples": [
+      "Professional portraits",
+      "Headshots",
+      "Fashion photography"
+    ],
+    "techniques": [
+      "Skin smoothing",
+      "Warm tones",
+      "Subtle contrast",
+      "Detail preservation"
+    ]
+  }
+]

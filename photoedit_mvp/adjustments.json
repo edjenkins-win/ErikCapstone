@@ -1,0 +1,20 @@
+[
+  {
+    "parameter": "exposure",
+    "suggested": 0.3,
+    "unit": "EV",
+    "description": "Increase exposure"
+  },
+  {
+    "parameter": "sharpening",
+    "suggested": 0.4,
+    "unit": "strength",
+    "description": "Apply sharpening"
+  },
+  {
+    "parameter": "saturation",
+    "suggested": 0.5,
+    "unit": "increase",
+    "description": "Increase saturation"
+  }
+]

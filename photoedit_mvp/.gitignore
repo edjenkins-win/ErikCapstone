@@ -1,0 +1,102 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+../.venv/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE / Editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+# Image and model files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.heif
+*.heic
+*.dng
+*.arw
+*.cr2
+*.nef
+*.orf
+*.rw2
+
+# Except test images in test directories
+!tests/test_images/**/*.jpg
+!tests/test_images/**/*.png
+
+# ML model files - uncomment if you don't want to track these
+# *.pt
+# *.pth
+# *.h5
+# *.pb
+# *.onnx
+# *.tflite
+# *.pickle
+# *.pkl
+
+# Logs
+logs/
+*.log
+
+# Local configuration
+config.local.py
+secrets.py
+.env
+
+# Streamlit specific
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Runtime data
+temp/
+tmp/
+.temp/
+.tmp/
+
+# OS specific
+Thumbs.db
+.DS_Store 
